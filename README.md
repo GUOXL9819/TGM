@@ -33,5 +33,5 @@ TGM follows these main steps:
 - **Thermal Discharge Impact Area** (GeoTIFF)
 
 ## Contact
-For more information, please contact the author at: **[gxinglong0222@163.com]**
+For more information, please contact the author at: **gxinglong0222@163.com**
 
