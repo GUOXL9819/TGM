@@ -23,14 +23,14 @@ TGM follows these main steps:
    - Analyze the diffusion characteristics in different geographic regions, such as bays, coastal areas, and lakes.
 
 5. **Results Output**
-   - Generate visual representations of thermal discharge impact areas (TIFF/PNG).
-   - Output calculation results in CSV/NetCDF format.
+   - Generate visual representations of thermal discharge impact areas (PNG).
+   - Output calculation results in CSV format.
 
 ## Data Input
 - **Satellite Data**: Landsat 8/9 water surface temperature data
 
 ## Data Output
-- **Thermal Discharge Impact Area** (GeoTIFF)
+- **Thermal Discharge Impact Area** (PNG)
 
 ## Contact
 For more information, please contact the author at: **gxinglong0222@163.com**
