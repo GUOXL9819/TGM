@@ -7,7 +7,7 @@ This project utilizes the **Temperature Gradient Method (TGM)** to calculate the
 TGM follows these main steps:
 
 1. **Data Acquisition**
-   - Use the thermal infrared bands of Landsat 8/9 TIRS sensors to calculate Sea Surface Temperature (SST).
+   - Use the thermal infrared bands of Landsat 8/9 TIRS sensors to calculate Water Surface Temperature (WST).
    - Apply the Radiative Transfer Equation (RTE) for SST retrieval.
 
 2. **Water Body Identification**
@@ -31,3 +31,7 @@ TGM follows these main steps:
 
 ## Data Output
 - **Thermal Discharge Impact Area** (GeoTIFF)
+
+## Contact
+For more information, please contact the author at: **[gxinglong0222@163.com]**
+
