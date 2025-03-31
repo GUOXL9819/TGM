@@ -32,6 +32,8 @@ TGM follows these main steps:
 ## Data Output
 - **Thermal Discharge Impact Area** (PNG)
 
+## Note
+Currently, we have only uploaded the MATLAB version of the program for calculating background temperature and temperature rise area using the Temperature Gradient Method, provided for reference. In the future, we will also add the water surface temperature calculation program and the Python version of the program. We apologize for any inconvenience this may cause.
+
 ## Contact
 For more information, please contact the author at: **gxinglong0222@163.com**
-
